@@ -1,0 +1,6 @@
+{
+  "name": "Indus Bright Future School Adam Doki",
+  "description": "Comprehensive school web portal and academic management system for Indus Bright Future School Adam Doki with teacher records, student registrations, timetables, guardian portals, real-time reports, and Gemini AI academic counselor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
